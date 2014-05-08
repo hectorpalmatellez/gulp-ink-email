@@ -1,0 +1,37 @@
+//===============================================================================
+// GLOBAL-VARIABLES
+//===============================================================================
+
+// COLOURS
+//===============================================================================
+$paper: white;
+$ink: black;
+
+$header: $ink;
+$link: blue;
+
+// FONTS
+//===============================================================================
+$body-font: sans-serif;
+
+// font stacks
+$georgia: Georgia, Cambria, "Times New Roman", Times, serif;
+$helvetica: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+$lucida-grande: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+$monospace: "Bitstream Vera Sans Mono", Consolas, Courier, monospace;
+$verdana: Verdana, Geneva, sans-serif;
+
+// DIMENSIONS
+//===============================================================================
+$base-font-size: 20px;
+
+// font sizes
+   $tera: 4.2rem; // 84px @ 20px base font size
+   $giga: 3.5rem; // 70px @ 20px base font size
+   $mega: 2.6rem; // 52px @ 20px base font size
+  $alpha: 2.2rem; // 44px @ 20px base font size
+   $beta: 1.6rem; // 32px @ 20px base font size
+  $gamma: 1.3rem; // 26px @ 20px base font size
+  $delta: 1rem;   // 20px @ 20px base font size
+$epsilon: 0.8rem; // 16px @ 20px base font size
+   $zeta: 0.6rem; // 12px @ 20px base font size

@@ -1,0 +1,22 @@
+//===============================================================================
+// LAYOUT
+//===============================================================================
+// box-sizing everywhere and webkit text rendering correction
+*,
+*::before,
+*:after {
+  box-sizing: border-box;
+  
+  -webkit-font-smoothing: antialiased;
+}
+
+// remove padding & list styles from all <ul> as default
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+html,
+body {
+
+}
