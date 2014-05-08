@@ -1,6 +1,12 @@
-# Experiments base
+# html emails gulp project
 
-A base [gulp](http://gulpjs.com/) project for web experiments. By [Mark Durrant](https://twitter.com/m6_d6).
+A gulp project to help with creating html emails. Uses the [ink framework](http://zurb.com/ink/)
+
+Also give you
+* SASS
+* Automaticaly inlines CSS
+* Livereload (requires browser extension)
+* Image minification
 
 * * *
 
@@ -18,14 +24,9 @@ Build assets (only required once)
 
 `gulp build`
 
-Run Gulp
-(Starts local server, LiveReload, SASS compilation, JS hinting & minification, image minification)
+For development 
+(Starts local server, LiveReload, SASS compilation, image minification, & css inlining)
 
 `gulp`
 
-### todo
-* seperate dev & dist folders. (unminified assets + liveReload) & (minified assets +  no liveReload) - can use gulp-if for this I think.
-* add in gh-pages export
-* alert(sound) on errors
-* style success/error msgs
-* SASS only version?
+Inline styles for production
