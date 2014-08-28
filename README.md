@@ -10,11 +10,13 @@ Also gives you
 
 * * *
 
-### Getting Started
+## Getting Started
 
 ####Install [node](http://nodejs.org/) & [gulp](http://gulpjs.com/)
 
-`brew install node`, `npm install -g gulp`
+`brew install node`
+
+`npm install -g gulp`
 
 ####Install packages
 
@@ -24,7 +26,8 @@ Also gives you
 
 `gulp build`
 
-####For development (Starts local server, LiveReload, SASS compilation, image minification, & css inlining)
+####For development
+(Starts local server, LiveReload, SASS compilation, image minification, & CSS inlining)
 
 `gulp`
 
