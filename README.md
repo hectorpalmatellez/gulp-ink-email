@@ -12,23 +12,22 @@ Also gives you
 
 ### Getting Started
 
-Install [node](http://nodejs.org/) & [gulp](http://gulpjs.com/)
+####Install [node](http://nodejs.org/) & [gulp](http://gulpjs.com/)
 
 `brew install node`, `npm install -g gulp`
 
-Install packages
+####Install packages
 
 `npm i`
 
-Build assets (only required once)
+####Build assets (only required once)
 
 `gulp build`
 
-For development
-(Starts local server, LiveReload, SASS compilation, image minification, & css inlining)
+####For development (Starts local server, LiveReload, SASS compilation, image minification, & css inlining)
 
 `gulp`
 
-Inline styles for production
+#### Inline styles for production
 
 `gulp inliner`
