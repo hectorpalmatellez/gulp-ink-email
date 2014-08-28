@@ -10,7 +10,7 @@ var     gulp = require( 'gulp' ),
    inlineCss = require( 'gulp-inline-css' ),
        clean = require( 'gulp-clean' );
 
-// source and distribution folders 
+// source and distribution folders
 var  src = 'src/';
 var dist = path.resolve( 'dist/' );
 
@@ -23,7 +23,7 @@ gulp.task( 'server', function() {
       connect.static( dist )
   ).listen( LocalPort );
 
-  console.log( "\nlocal server runing at http://localhost:" + LocalPort + "/\n" );
+  console.log( "\nlocal server running at http://localhost:" + LocalPort + "/\n" );
 });
 
 // copy html
