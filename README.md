@@ -3,8 +3,8 @@
 A gulp project to help with creating HTML emails. Uses the [Ink framework](http://zurb.com/ink/)
 
 Also gives you
-* `SASS`
-* Automaticaly inlines `CSS`
+* Sass.
+* Automatically inlines `CSS`
 * Livereload (requires browser extension)
 * Image minification
 
