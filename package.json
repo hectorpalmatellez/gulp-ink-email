@@ -14,8 +14,8 @@
     "tiny-lr": "0.0.5",
     "gulp-sass": "^2.0.1",
     "gulp-autoprefixer": "0.0.6",
-    "gulp-imagemin": "~0.1.4",
-    "gulp-inline-css": "~0.2.5",
-    "gulp-clean": "~0.2.4"
+    "gulp-imagemin": "~2.1.1",
+    "gulp-inline-css": "^2.0.0",
+    "gulp-clean": "~0.3.1"
   }
 }
