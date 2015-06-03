@@ -1,11 +1,11 @@
 {
-  "name": "experiment-base",
-  "version": "0.0.1",
-  "author": "Mark Durrant <mark.j.durrant@gmail.com>",
-  "description": "a base project for experimentation",
+  "name": "gulp-ink-email",
+  "version": "0.1.0",
+  "author": "Héctor Palma Téllez <hector@palmatellez.cl>",
+  "description": "Project to make e-mail templates using Ink and Sass",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodejitsu/http-server.git"
+    "url": "https://github.com/hectorpalmatellez/gulp-ink-email.git"
   },
   "devDependencies": {
     "gulp": "~3.4.0",
